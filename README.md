@@ -36,8 +36,18 @@ Given its potentially complex mechanics, Rise of Etherea would be ideal for plat
 
 Rise of Etherea would blend the fun of city-building with the excitement of a fantasy setting. Its gameplay depth and the unique setting would provide an exciting and fresh experience for fans of city-building and fantasy games alike.
 
+Installation:
+
+`
+composer install
+`
+
+Development:
+```
+php artisan serve
+npm run dev
+```
 
 And don't forget to run the queue worker to process the jobs:
 
-`php artisan queue:work
-`
+`php artisan queue:work`
