@@ -38,11 +38,11 @@ Rise of Etherea would blend the fun of city-building with the excitement of a fa
 
 Installation:
 
-`
+```
 composer install
 php artisan migrate
 npm install
-`
+```
 
 Development:
 ```
